@@ -8,6 +8,5 @@ def key_for_min_value(hash)
       lowest_key= key
     end
   end
-  lowest_value
   lowest_key
 end
